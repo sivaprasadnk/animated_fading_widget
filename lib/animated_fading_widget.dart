@@ -44,6 +44,12 @@ class _AnimatedFadingWidgetState extends State<AnimatedFadingWidget>
   }
 
   @override
+  void dispose() {
+    animation.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return FadeTransition(
       opacity: _fadeInFadeOut,

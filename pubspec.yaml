@@ -1,6 +1,6 @@
 name: animated_fading_widget
-description: A new Flutter package project.
-version: 0.0.1
+description: Looking to FadeInOut your widget with a specified duration? Just provide the duration and the widget will continuously fade in and out.
+version: 0.0.2
 homepage: https://github.com/sivaprasadnk/animated_fading_widget
 
 environment:

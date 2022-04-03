@@ -9,7 +9,7 @@ Add this to your package's `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  animated_fading_widget: ^0.0.1
+  animated_fading_widget: ^0.0.2
 ```
 
 ## Usage
